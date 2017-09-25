@@ -3,7 +3,6 @@ This is an implementation of training the dataset using linear regression and cl
 In this case, the dataset, [Iris dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/iris/), we assign the value of N to be 10 as we use 3 sets of 3 loops in training the data and 1 for testing. 
 Accuracy is 100%.
 A working implementation is also on [Kaggle-SanyTiger-IrisDataset](https://www.kaggle.com/sanytiger/n-cross-validation-using-iris-dataset/notebook)
-# N-Cross-Validation-Iris-Dataset
 
 This implementation is done in R programming language with the dataset Iris from the UCI repository of datasets, http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data.
 
@@ -26,6 +25,3 @@ Working Code On Kaggle
 -----------------------
 The same working code for implementing N-Cross Validation on the Iris dataset is hosted on Kaggle.com, https://www.kaggle.com/sanytiger/n-cross-validation-using-iris-dataset/notebook. This site allows users to host machine learning and data mining codes and provides functionalities to run graphs and plots on the website. The site also sports hosting of different versions of the code.
 
-Hosted on Github
------------------
-The code is also posted on Github, https://github.com/SanyTiger/N-Cross-Validation-Iris-Dataset
